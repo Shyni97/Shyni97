@@ -1,16 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I'm Shyni Atapattu
 
-<!--
-**Shyni97/Shyni97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Aspiring Software Developer | IT Undergraduate at SLIIT 
+- 🔭 I’m currently working on deepening my expertise in Java, HTML, CSS, JavaScript & MySQL
+- 🌱 I’m currently learning React.js web development projects to build dynamic and responsive user interfaces
+- 👯 I’m looking to collaborate on web apps
+- 🤔 I’m looking for help with backend development
+- 📫 How to reach me: http://www.linkedin.com/in/shyni-atapattu5922002
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Coffee fuels my coding sessions!
+- 🔭 Projects coming soon!
